@@ -10,8 +10,8 @@ this can be used for scripting and doing some crazy fx as it is very lightweight
 **Wayland gamma control that doesn't care where you log in from.**
 
 `freak` controls red, orange, green, blue, contrast and gamma in real time on
-wlroots-based Wayland compositors (sway, river, hyprland, mango, niri-mango,
-wayfire, …) through the `zwlr_gamma_control_v1` protocol — from a TUI, from a
+wlroots-based Wayland compositors (sway, river, hyprland, mango, niri, Hyprland and sometimes Plasma (buggy in Plasma)
+through the `zwlr_gamma_control_v1` protocol — from a TUI, from a
 CLI, from a script, or from another machine over SSH.
 
 ## Why
