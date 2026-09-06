@@ -2,7 +2,10 @@
 # todo
 make the fine tuning simple for HDR brightness as this amplifies the value x5-10
 
-# freak
+# known as freak
+not built on rust anymore (a better experience).
+bought a Lenovo with zero nits and I used this for not ripping my eyes out. which made buy an oled that had to get luminance from edid so I was back at using this tool for a while and when I figured out my shit I still was missing some controls so Ive added yellow control. 
+this can be used for scripting and doing some crazy fx as it is very lightweight.
 
 **Wayland gamma control that doesn't care where you log in from.**
 
