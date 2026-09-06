@@ -1,3 +1,7 @@
+
+# todo
+make the fine tuning simple for HDR brightness as this amplifies the value x5-10
+
 # freak
 
 **Wayland gamma control that doesn't care where you log in from.**
